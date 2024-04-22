@@ -5,7 +5,6 @@
         public App()
         {
             InitializeComponent();
-
             MainPage = new NavigationPage(new Vistas.vLogin());
         }
     }
